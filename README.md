@@ -1,27 +1,16 @@
 # Community-Detection
 Overview
-The Centroid-Based Multiple Local Community Detection (C-MLC) framework is an advanced method 
-designed to identify local communities within 
-various types of networks. 
-By leveraging local topological information 
-and focusing on centroid nodes, 
-the framework efficiently detects multiple, 
-overlapping communities with high precision.
+The C-MLC framework is an advanced method for identifying local communities within various networks. It excels at detecting overlapping communities, where nodes can belong to more than one community.
 
 Key Features
-Overlapping Community Detection: Accurately identifies nodes belonging to multiple communities.
-Centroid-Based Approach: Ensures precise detection and analysis of local communities.
-Personalized PageRank & Conductance Optimization: Enhances the quality of detected communities.
-Scalable & Efficient: Robust performance across different network structures and densities.
-Broad Applicability: Suitable for social network analysis, systems biology, and more.
 
-
+Overlapping Community Detection: Accurately identifies nodes that participate in multiple communities.
+Centroid-Based Approach: Ensures precise detection and analysis of local communities by focusing on central nodes (centroids).
+Personalized PageRank & Conductance Optimization: Optimizes community detection for improved quality.
+Scalable & Efficient: Handles various network structures and densities effectively.
+Broad Applicability: Useful for social network analysis, biological network analysis, and more.
 Applications
-Social Network Analysis: Understand social dynamics and community structures.
-Biological Networks: Uncover functional modules and biological processes.
-Synthetic Datasets: Test and validate community detection methods.
 
-
-Installation
-Clone the repository:
-git clone https://github.com/your-username/C-MLC-framework.git
+Social Network Analysis: Gain insights into social dynamics and how communities form within a network.
+Biological Networks: Uncover functional modules and biological processes by analyzing communities within biological networks.
+Synthetic Datasets: Test and validate community detection methods using synthetically generated datasets.

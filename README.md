@@ -14,3 +14,12 @@ Applications
 Social Network Analysis: Gain insights into social dynamics and how communities form within a network.
 Biological Networks: Uncover functional modules and biological processes by analyzing communities within biological networks.
 Synthetic Datasets: Test and validate community detection methods using synthetically generated datasets.
+
+Installation
+
+Clone the repository from GitHub:
+Bash
+git clone https://github.com/your-username/C-MLC-framework.git
+Use code with caution.
+
+Replace "your_username" with your actual GitHub username.

@@ -2,7 +2,7 @@
 Overview
 The Centroid-Based Multiple Local Community Detection (C-MLC) framework is an advanced method designed to identify local communities within various types of networks. By leveraging local topological information and focusing on centroid nodes, the framework efficiently detects multiple, overlapping communities with high precision.
 
-Key Features:
+Key Features
 Overlapping Community Detection: Accurately identifies nodes belonging to multiple communities.
 Centroid-Based Approach: Ensures precise detection and analysis of local communities.
 Personalized PageRank & Conductance Optimization: Enhances the quality of detected communities.
@@ -18,9 +18,3 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-username/C-MLC-framework.git
-cd C-MLC-framework
-Install the required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
